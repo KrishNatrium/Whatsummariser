@@ -21,7 +21,7 @@ A Python script that automatically summarizes WhatsApp group conversations by:
 1. Clone this repository:
 ```bash
 git clone https://github.com/KrishNatrium/Whatsummariser.git
-cd whatsapp-summarizer
+cd Whatsummariser
 ```
 
 2. Install dependencies:
