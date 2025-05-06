@@ -40,6 +40,8 @@ python -c "import nltk; nltk.download('punkt')"
 1. Run the script:
 ```bash
 python whatsapp_summary.py
+or
+python newS.py
 ```
 
 2. Follow the on-screen instructions:
