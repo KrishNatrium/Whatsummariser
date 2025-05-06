@@ -28,7 +28,6 @@ cd Whatsummariser
 ```bash
 pip install -r requirements.txt
 ```
-   download chrome driver according to your chrome version [here](https://googlechromelabs.github.io/chrome-for-testing/) and keep the extracted folder in the project file 
 
 3. Download NLTK data (first-time setup):
 ```bash
