@@ -70,17 +70,6 @@ specific components. The next meeting is scheduled for Thursday at 2PM.
 - Carol (8 messages)
 ```
 
-## Configuration
-
-Customize summarization by editing these parameters in `whatsapp_summary.py`:
-```python
-# Change number of summary sentences
-summary = summarizer(parser.document, 3)  # ← Change this number
-
-# Adjust message loading timeout (seconds)
-WebDriverWait(driver, 60)  # ← Timeout value
-```
-
 ## Troubleshooting
 
 **Common Issues:**
